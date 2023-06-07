@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/notion-806BFF?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="[/](https://www.notion.so/8e3b327f22aa49e99e55f24c353670c2?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/notion-806BFF?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 
 ![kimsubni's github stats](https://github-readme-stats.vercel.app/api?username=kimsubni&show_icons=true)
