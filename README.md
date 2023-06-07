@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a style="margin-right:10px;" href="https://www.notion.so/8e3b327f22aa49e99e55f24c353670c2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-806BFF?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a><img src="https://img.shields.io/badge/gmail-FF6D6D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<a href="https://www.notion.so/8e3b327f22aa49e99e55f24c353670c2?pvs=4" target="_blank"><img style="margin-right:10px;" src="https://img.shields.io/badge/notion-806BFF?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a><img src="https://img.shields.io/badge/gmail-FF6D6D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 
 ![kimsubni's github stats](https://github-readme-stats.vercel.app/api?username=kimsubni&show_icons=true)
