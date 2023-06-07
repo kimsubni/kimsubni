@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=Notion&logoColor=black">
+
 ![kimsubni's github stats](https://github-readme-stats.vercel.app/api?username=kimsubni&show_icons=true)
